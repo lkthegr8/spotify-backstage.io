@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spotify-backstage.io
+  annotations:
+    github.com/project-slug: lkthegr8/spotify-backstage.io
+spec:
+  type: other
+  lifecycle: unknown
+  owner: lkgr8
